@@ -115,26 +115,12 @@ python "Blink detection.py"
 
 ---
 
-## 📊 Performance Metrics
-At program exit, `Final main.py` displays key metrics:
-- True Positives (TP), False Positives (FP)  
-- Accuracy, Precision, Recall, F1-Score  
-- False Acceptance Rate (FAR), False Rejection Rate (FRR)
-
----
 
 ## 💡 Notes
 - Update file paths to match your system setup.  
 - Ensure proper lighting for best facial feature detection.  
 - The system marks a user as **“Passed (Live)”** only after detecting a blink.  
 
----
-
-## 📸 Add a Project Image
-To include your own image or demo screenshot:
-1. Create a folder named `assets` in your repo root.  
-2. Add your image as `project_banner.png` (recommended size: 1200×400).  
-3. Replace the banner image path in this README.
 
 ---
 
